@@ -8,11 +8,8 @@ About Me
 
 
 
-🎬 Former Assistant Director in Film, now diving into coding & automation
 
 🖥️ Exploring Python, Web3, and blockchain development
-
-📍 Currently in Kuala Lumpur, Malaysia
 
 📚 Learning through hands-on projects & freelancing
 
