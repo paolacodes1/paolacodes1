@@ -13,11 +13,6 @@
 - **Crypto & Web3 Development** – Learning how to interact with blockchain data  
 - **Freelance Automation Scripts** – Simplifying repetitive tasks with Python  
 
-## 🛠 Skills & Tools
-- 💻 Python | SQL | Google Sheets Automation  
-- 📊 Data Extraction & Processing  
-- 🔗 Web3 & Blockchain Basics  
-
 ## 🎯 Goals for 2025
 ✅ Launch my first freelance automation gig  
 ✅ Build and deploy a crypto tracking tool  
