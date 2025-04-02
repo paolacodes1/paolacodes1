@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Paola
-
-🚀 **Aspiring Developer | Learning Python & Web3**
+ 
+**Aspiring Developer | Learning Python & Web3**
 
 ## 📌 About Me
 🎬 Former Assistant Director in Film, now diving into coding & automation  
@@ -14,9 +14,9 @@
 - **Freelance Automation Scripts** – Simplifying repetitive tasks with Python  
 
 ## 🎯 Goals for 2025
-✅ Launch my first freelance automation gig  
-✅ Build and deploy a crypto tracking tool  
-✅ Contribute to an open-source Web3 project  
+- **Launch my first freelance automation gig  
+- **Build and deploy a crypto tracking tool  
+- **Contribute to an open-source Web3 project  
 
 ## 🤝 Let's Connect!
 📩 Reach out for coding collabs or tech discussions!  
