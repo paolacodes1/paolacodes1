@@ -13,11 +13,6 @@
 - **Crypto & Web3 Development** – Learning how to interact with blockchain data  
 - **Freelance Automation Scripts** – Simplifying repetitive tasks with Python  
 
-## 🎯 Goals for 2025
-- Launch my first freelance automation gig  
-- Build and deploy a crypto tracking tool  
-- Contribute to an open-source Web3 project  
-
 ## 🤝 Let's Connect!
 📩 Reach out for coding collabs or tech discussions!  
 
