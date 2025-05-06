@@ -11,7 +11,7 @@
 ## 🚀 What I'm Working On
 - **File Renaming Automation** – Building Python scripts to batch rename and organize files  
 - **Crypto & Web3 Development** – Learning how to interact with blockchain data  
-- **Freelance Automation Scripts** – Simplifying repetitive tasks with Python  
+- **Automation Scripts** – Simplifying repetitive tasks with Python  
 
 ## 🤝 Let's Connect!
 📩 Reach out for coding collabs or tech discussions!  
