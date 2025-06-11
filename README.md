@@ -2,8 +2,7 @@
  
 **Aspiring Developer | Learning Python & Web3**
 
-## 📌 About Me
-🎬 Former Assistant Director in Film, now diving into coding & automation  
+## 📌 About Me  
 🖥️ Exploring Python, Web3, and blockchain development  
 📚 Learning through hands-on projects & freelancing  
 
