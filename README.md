@@ -19,14 +19,17 @@ I believe in building fast, learning by doing, and creating things that *actuall
 
 ## 🚧 What I'm Working On
 
-🧩 **Personal Website**  
-A dynamic portfolio built with Next.js + shadcn, showcasing projects, skills, and experiments.
+🤖 WhatsApp Bot for Hotels
+An AI-powered assistant that automates guest communication, answers inquiries, and manages bookings in real-time.
 
-🤖 **WhatsApp Bot for Hotels**  
-A smart AI-powered bot that automates guest communication, handles inquiries, and assists with bookings in real-time.
+🏨 Hotel Booking System
+A custom backend for local hotels to manage room availability, check-ins, and daily operations from one streamlined dashboard.
 
-🏨 **Hotel Booking System**  
-A custom backend for local hotels to manage room availability, check-ins, and operations in one smooth dashboard.
+🚁 Drone Operations Website
+A professional site for a drone service company specializing in palm plantation monitoring and mapping, with a focus on clear service presentation and lead generation.
+
+🔮 Reiki & Tarot Website
+A serene, intuitive website for a holistic practitioner, designed to highlight services and inspire trust, connection, and curiosity.
 
 
 
