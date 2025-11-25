@@ -1,42 +1,21 @@
-# 👋 Hey, I'm Paola
-
-**AI Builder | Web3 Explorer**
-
-
-
-## 🧠 About Me
-
-I'm a hands-on builder using **AI** and **automation** to craft tools that solve real-world problems—whether it's streamlining business tasks, enhancing communication, or simplifying workflows.  
-
-Currently diving deep into:
-- **AI-powered solutions**
-- **Python scripting**
-- **Web3 development**
-
-I believe in building fast, learning by doing, and creating things that *actually* help people (or me at 2AM on a deadline).
-
-
-
-## 🚧 What I'm Working On
-
-🤖 WhatsApp Bot for Hotels
-An AI-powered assistant that automates guest communication, answers inquiries, and manages bookings in real-time.
-
-🏨 Hotel Booking System
-A custom backend for local hotels to manage room availability, check-ins, and daily operations from one streamlined dashboard.
-
-🚁 Drone Operations Website
-A professional site for a drone service company specializing in palm plantation monitoring and mapping, with a focus on clear service presentation and lead generation.
-
-🔮 Reiki & Tarot Website
-A serene, intuitive website for a holistic practitioner, designed to highlight services and inspire trust, connection, and curiosity.
-
-
-
-## 🤝 Let's Connect!
-
-Got a cool idea or want to geek out over automation, AI, or code that does your work for you?  
-📩 Drop me a message — open to collaborations, freelancing, or just exchanging wild project ideas.
+👋 Hi, I'm Paola
+AI Builder • Web3 Explorer • Automation Enthusiast
+🧠 About Me
+I’m a builder who learns by creating. Most of my projects start with a simple goal: make things easier, faster, and smarter. I enjoy using AI, automation, and code to solve real operational problems — from messy inboxes to manual workflows.
+I’m currently exploring:
+AI-powered automation
+Python scripting
+Web3 fundamentals
+Practical workflows for real businesses
+🚧 Current Projects
+🤖 Work Automation Dashboard
+A custom internal dashboard that automates my daily tasks: organizing emails, handling PDFs, generating reports, and keeping everything tidy with AI agents.
+🏨 Hotel Management Dashboard + AI Assistant
+A lightweight system for a local hotel to manage availability, check-ins, and daily operations. Includes an AI WhatsApp bot to answer guest questions and help with bookings.
+🌳 Family Tree Website (Passion Project)
+A personal project to turn my family’s history into an interactive, modern website — part archive, part storytelling, part experiment.
+🤝 Let’s Connect
+If you’re into automation, Web3, or building things that make life a bit smoother, feel free to reach out. Always happy to exchange ideas or collaborate on something interesting.
 
 
 
